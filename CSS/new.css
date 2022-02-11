@@ -1,0 +1,61 @@
+body, html{
+  height: 100%;
+  margin: 0px;
+}
+body{
+  background: rgb(31, 71, 70)
+}
+.Workout-image{
+    background-image:url("../img/gym.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: center;
+}
+
+nav li{
+  display: inline;
+  margin: 30px;  
+}
+
+nav{
+  display: block;
+  color:white;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color:white;
+}
+
+
+.Workout-text{
+  text-align: center;
+}
+
+article{
+  background-image:url("../img/kidcare.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: center;
+  text-align: center;
+}
+
+div{
+  background-image:url("../img/Yoga-Hiit-Class.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: center;
+  text-align: center;
+}
+
+h4{
+  background-image:url("../img/family.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: center;
+  text-align: center;
+}
